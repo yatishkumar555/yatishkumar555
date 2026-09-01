@@ -227,26 +227,6 @@ Short description explaining your mobile application and its main functionality.
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yatishkumar555\&theme=tokyo-night\&hide_border=true\&area=true)
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yatishkumar555\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&row=1)
-
-</div>
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
