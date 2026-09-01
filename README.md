@@ -23,45 +23,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const developer = {
-    role: "MERN Stack Full-Stack Developer",
-    secondaryRole: "React Native App Developer",
-
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    
-    backend: [
-        "Node.js",
-        "Express.js",
-        "NestJS"
-    ],
-
-    mobile: ["React Native", "Expo"],
-
-    databases: [
-        "MongoDB",
-        "MongoDB Atlas",
-        "PostgreSQL"
-    ],
-
-    cloud: [
-        "AWS",
-        "AWS Lightsail",
-        "Vercel",
-        "Netlify"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Docker",
-        "Postman"
-    ],
-
-    currentlyBuilding: "Modern Web & Mobile Applications"
-};
-```
-
 I primarily build **full-stack web applications using the MERN stack**, handling everything from responsive user interfaces and APIs to databases, deployment and cloud infrastructure.
 
 Alongside web development, I build **cross-platform mobile applications with React Native**.
