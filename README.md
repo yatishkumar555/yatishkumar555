@@ -168,38 +168,36 @@ Deploying applications using:
 <tr>
 <td width="50%">
 
-## 🌐 Project One
+## 🌐 Project 1: Online Coaching Website
 
-<img src="YOUR_PROJECT_SCREENSHOT_URL" width="100%">
+<img src="https://raw.githubusercontent.com/yatishkumar555/yatishkumar555/refs/heads/main/Screenshot%202026-08-09%20162351.png" width="100%">
+<img src="https://raw.githubusercontent.com/yatishkumar555/yatishkumar555/refs/heads/main/Screenshot%202026-08-09%20152359.png" width="100%">
 
 ### Full-Stack MERN Application
 
-Short description explaining what the application does and what problem it solves.
+A modern and responsive coaching website designed to showcase courses, programs, and educational resources. Built with a clean user interface and a focus on providing a smooth and accessible learning experience across all devices.
 
 **Built with**
 
 `React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](YOUR_REPOSITORY_URL)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_LIVE_URL)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://chanakyacoaching.vercel.app/)
 
 </td>
 
 <td width="50%">
 
-## 📱 Project Two
+## 📱 Project Two: Exam Update
 
-<img src="YOUR_PROJECT_SCREENSHOT_URL" width="100%">
+<img src="https://raw.githubusercontent.com/yatishkumar555/yatishkumar555/refs/heads/main/photo_2026-09-03_08-47-16.jpg" width="100%">
 
 ### React Native Application
 
-Short description explaining your mobile application and its main functionality.
+A modern government exam update app that provides the latest job notifications, admit cards, results, answer keys, admissions, and other important exam updates in one place. Designed with a clean, fast, and user-friendly interface for easy access to essential information.
 
 **Built with**
 
 `React Native` `Expo` `Node.js` `MongoDB`
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](YOUR_REPOSITORY_URL)
 
 </td>
 </tr>
